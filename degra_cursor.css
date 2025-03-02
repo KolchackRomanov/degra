@@ -4,7 +4,7 @@
 .container_fc4f04,
 [role=menu],
 .titleBar_a934d8 {
-  cursor: url('https://kolchackromanov.github.io/degra/assets/cursor/Hello_Kitty_normal_select.cur'), default !important;
+  cursor: url("https://kolchackromanov.github.io/degra/assets/cursor/Hello_Kitty_normal_select.cur"), default !important;
 }
 
 .timestamp_f9f2ca,
@@ -14,7 +14,7 @@ textarea,
 .textAreaSlate_d0696b div div,
 .textAreaSlate_bdf0de div div,
 input {
-  cursor: url('https://kolchackromanov.github.io/degra/assets/cursor/Hello_Kitty_text_select.cur'), default !important;
+  cursor: url("https://kolchackromanov.github.io/degra/assets/cursor/Hello_Kitty_text_select.cur"), default !important;
 }
 
 a,
@@ -70,11 +70,11 @@ label,
 .cursorPointer_a7d72e,
 .labelClickable_f6cde8,
 .friendsTable-133bsv .friendsRow-2yicud {
-  cursor: url('https://kolchackromanov.github.io/degra/assets/cursor/Hello_Kitty_link_select.ani'), default !important;
+  cursor: url("https://kolchackromanov.github.io/degra/assets/cursor/Hello_Kitty_link_select.ani"), default !important;
 }
 
 .grabber-2GQyvM {
-  cursor: url('https://kolchackromanov.github.io/degra/assets/cursor/Hello_Kitty_horizontal_resize.cur'), default !important;
+  cursor: url("https://kolchackromanov.github.io/degra/assets/cursor/Hello_Kitty_horizontal_resize.cur"), default !important;
 }
 
 .disabled,
@@ -83,5 +83,5 @@ label,
 .disabled-2qTmnp,
 .modeLocked_d8bfb3,
 .modeLocked_d8bfb3 .mainContent-20q_Hp {
-  cursor: url('https://kolchackromanov.github.io/degra/assets/cursor/Hello_Kitty_unavailable.cur'), default !important;
+  cursor: url("https://kolchackromanov.github.io/degra/assets/cursor/Hello_Kitty_unavailable.cur"), default !important;
 }
